@@ -26,7 +26,6 @@ body {
     background-attachment: fixed;
     padding: 40px 15px; /* Padding vertikal & horizontal untuk wrapper */
     box-sizing: border-box;
-    min-height: 100vh;
 }
 
 .content-container {
